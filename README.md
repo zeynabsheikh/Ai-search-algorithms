@@ -11,24 +11,34 @@ cd YOUR_REPO_NAME
 ```
 Create and activate virtual environment:
 Windows PowerShell:
+```bash
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
+```
 
 Windows CMD:
+```bash
 python -m venv .venv
 .\.venv\Scripts\activate.bat
+```
 
 Linux/macOS:
+```bash
 python -m venv .venv
 source .venv/bin/activate
+```
 
 install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 (Make sure pygame is listed in requirements.txt)
 
 Running the Project:
+```bash
 python main.py
+```
 
 Features
 
