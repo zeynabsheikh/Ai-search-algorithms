@@ -8,7 +8,7 @@ This project demonstrates BFS, DFS, and A* search algorithms with GUI visualizat
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
-
+```bash
 Create and activate virtual environment:
 Windows PowerShell:
 python -m venv .venv
